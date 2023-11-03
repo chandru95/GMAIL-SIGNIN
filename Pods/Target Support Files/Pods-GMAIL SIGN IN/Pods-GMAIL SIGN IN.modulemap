@@ -1,0 +1,6 @@
+framework module Pods_GMAIL_SIGN_IN {
+  umbrella header "Pods-GMAIL SIGN IN-umbrella.h"
+
+  export *
+  module * { export * }
+}
